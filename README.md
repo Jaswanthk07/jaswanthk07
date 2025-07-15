@@ -5,11 +5,11 @@
 <hr/>
 <h4 align="center">I am a Computer Science Engineering student at IIIT Sri City with a strong foundation in full-stack development. I have hands-on experience building scalable web applications and have demonstrated leadership through successful hackathon participation and effective project management. Passionate developer with a love for problem-solving and creating innovative solutions. Always eager to learn new technologies and collaborate on exciting projects.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaswanthk07&label=Jaswanth's%20Profile%20Views%20&color=dc143c&style=plastic" alt="jaswanthk07" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jaswanthk07&label=Jaswanth's%20Profile%20Views%20&color=dc143c&style=plastic" alt="jaswanthk07"/> </p>
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthk07&theme=algolia" alt="jaswanthk07" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaswanthk07&theme=algolia" alt="jaswanthk07"/></p>
 
 ## 🛠️ My Skills
 
