@@ -15,124 +15,44 @@
 </p>
 
 ## 🛠️ My Skills
+### 👨‍💻Languages
+[![](https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white)]()
+[![](https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white)]()
+[![](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black)]()
+[![](https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white)]()
 
-### 👉 Programming languages
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
-   </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-&emsp; 
-</p>
+### 🗄️Database
+[![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)]()
+[![](https://img.shields.io/badge/MySQL-00000F.svg?logo=mysql&logoColor=white)]()
+[![](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white)]()
+[![](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)]()
+[![](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)]()
 
 ### 👉 Frontend Development
-
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank"> 
-   <img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB">
-  </a>
-  &emsp;
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white">
-  </a>
-&emsp; 
-</p>
+[![](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white)]()
+[![](https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white)]()
+[![](https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB)]()
+[![](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)]()
 
 ### 👉 Backend Development
-
-<p align="left">
-  &emsp;
-  <a href="https://nodejs.org" target="_blank"> 
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://expressjs.com" target="_blank">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://graphql.org" target="_blank">
-    <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white">
-  </a>
-&emsp; 
-</p>
-
-### 👉 Databases & Cloud Hosting
-
-<p align="left">
-  &emsp;
-    <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://netlify.com/"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"></a>
-  &emsp;
-    <a href="https://vercel.com/"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"></a>
- &emsp; 
-</p>
+[![](https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white)]()
+[![](https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white)]()
+[![](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)]()
 
 ### 👉 Machine Learning & Game Development
-
-<p align="left">
-  &emsp;
-  <a href="https://www.tensorflow.org" target="_blank"> 
-    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://streamlit.io/" target="_blank"> 
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white">
-  </a>
-  &emsp;
-  <a href="https://www.pygame.org/" target="_blank"> 
-    <img alt="Pygame" src="https://img.shields.io/badge/Pygame-%23000000.svg?logo=python&logoColor=white">
-  </a>
-&emsp; 
-</p>
+[![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)]()
+[![](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white)]()
+[![](https://img.shields.io/badge/Pygame-%23000000.svg?logo=python&logoColor=white)]()
 
 ### 👉 Software & Tools
-
-<p>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Swagger" src="https://img.shields.io/badge/Swagger-%23Clojure.svg?logo=swagger&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Webpack" src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?logo=webpack&logoColor=black"></a>
-  &emsp;
-    <a href="#"><img alt="npm" src="https://img.shields.io/badge/npm-%23000000.svg?logo=npm&logoColor=white"></a>
- &emsp; 
-</p>
+[![](https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white)]()
+[![](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)]()
+[![](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)]()
+[![](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)]()
+[![](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)]()
+[![](https://img.shields.io/badge/Swagger-%23Clojure.svg?logo=swagger&logoColor=white)]()
+[![](https://img.shields.io/badge/Webpack-%238DD6F9.svg?logo=webpack&logoColor=black)]()
+[![](https://img.shields.io/badge/npm-%23000000.svg?logo=npm&logoColor=white)]()
 
 ## 📊 Github Stats (Expand to View)
 
