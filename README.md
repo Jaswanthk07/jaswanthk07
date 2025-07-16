@@ -77,8 +77,6 @@
   <br/>
 </details>
 
-<br/>
-
 ## 🙋‍♂️ Let's Connect
 
 <p align="center">
