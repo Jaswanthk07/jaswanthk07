@@ -7,13 +7,6 @@
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Jaswanthk07&label=Jaswanth's%20Profile%20Views%20&color=dc143c&style=plastic" alt="Jaswanthk07"/> </p>
 
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jaswanthk07&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
-</p>
-
 ## 🛠️ My Skills
 ### 👨‍💻Languages
 [![](https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white)]()
