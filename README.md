@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Jaswanth Pederedla,
-I'm a Computer Science Engineering student at IIIT Sri City building scalable web applications and solving complex problems.
+I'm a Computer Science Engineering student at IIIT Sri City, building scalable web applications and solving complex problems.
 I am passionate about full-stack development and always eager to collaborate on exciting projects.
 
 * **Full-Stack Development** with JavaScript, React, Node.js, and modern web technologies.
