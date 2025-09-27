@@ -5,8 +5,7 @@ I am passionate about full-stack development and always eager to collaborate on 
 
 * **Full-Stack Development** with JavaScript, React, Node.js, and modern web technologies.
 * **Backend Solutions** using Express.js, GraphQL, MongoDB, and MySQL databases.
-
-* **Game Development** using OpenGL, C++, and Pygame for interactive experiences.
+* **UI/UX Implementation** with responsive design, accessibility standards, and intuitive user interfaces.
 * **Project Leadership** through hackathon participation and effective team management.
 
 <details>
