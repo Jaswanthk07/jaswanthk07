@@ -1,12 +1,12 @@
-### Hi there 👋
-I'm Jaswanth Pederedla,
-I'm a Computer Science Engineering student at IIIT Sri City, building scalable web applications and solving complex problems.
-I am passionate about full-stack development and always eager to collaborate on exciting projects.
+### Hi there 👋  
+I'm **Jaswanth Pederedla**,  
+a Computer Science Engineering student at **IIIT Sri City**, passionate about building scalable web applications and exploring data-driven insights. I enjoy solving complex problems and learning through real-world projects.
 
-* **Full-Stack Development** with JavaScript, React, Node.js, and modern web technologies.
-* **Backend Solutions** using Express.js, GraphQL, MongoDB, and MySQL databases.
-* **UI/UX Implementation** with responsive design, accessibility standards, and intuitive user interfaces.
-* **Project Leadership** through hackathon participation and effective team management.
+* **Full-Stack Development** using JavaScript, React, Node.js, and modern web technologies.  
+* **Backend & APIs** with Express.js, MongoDB, MySQL, and REST/GraphQL.  
+* **Data Analytics & Machine Learning** with Python, Pandas, NumPy, and Scikit-learn.  
+* **UI/UX Implementation** through responsive design and clean, user-friendly layouts.  
+* **Project Leadership** through hackathons and collaborative development.  
 
 <details>
 <summary>📊 GitHub Stats</summary>
@@ -22,7 +22,7 @@ I am passionate about full-stack development and always eager to collaborate on 
 
 </details>
 
-## 🙋‍♂️ Let's Connect
+## 🙋‍♂️ Let's Connect  
 
 <p align="left">
   <a href="mailto:jaswanth.p22@iiits.in"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
