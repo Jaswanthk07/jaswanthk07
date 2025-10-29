@@ -32,5 +32,5 @@ a Computer Science Engineering student at **IIIT Sri City**, passionate about bu
 </p>
 
 <p align="left">
-  <i>💡 "Always learning, always building, always growing!" 💡</i>
+  <i>💡 "Always learning, always building, always growing!!" 💡</i>
 </p>
