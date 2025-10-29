@@ -1,6 +1,7 @@
 ### Hi there 👋  
 I'm **Jaswanth Pederedla**,  
-a Computer Science Engineering student at **IIIT Sri City**, passionate about building scalable web applications and exploring data-driven insights. I enjoy solving complex problems and learning through real-world projects.
+I'm a Computer Science Engineering student at **IIIT Sri City**,  
+I'm passionate about building scalable web applications and exploring data-driven insights.
 
 * **Full-Stack Development** using JavaScript, React, Node.js, and modern web technologies.  
 * **Backend & APIs** with Express.js, MongoDB, MySQL, and REST/GraphQL.  
@@ -32,5 +33,5 @@ a Computer Science Engineering student at **IIIT Sri City**, passionate about bu
 </p>
 
 <p align="left">
-  <i>💡 "Always learning, always building, always growing!!" 💡</i>
+  <i>💡 "Always learning, always building, always growing!" 💡</i>
 </p>
