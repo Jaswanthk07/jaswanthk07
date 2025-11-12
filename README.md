@@ -6,8 +6,9 @@ I'm passionate about building scalable web applications and exploring data-drive
 * **Full-Stack Development** using JavaScript, React, Node.js, and modern web technologies.  
 * **Backend & APIs** with Express.js, MongoDB, MySQL, and REST/GraphQL.  
 * **Data Analytics & Machine Learning** with Python, Pandas, NumPy, and Scikit-learn.  
+* **Augmented Reality & Game Development** with Unity 3D, Vuforia, C#, and Android SDK.  
 * **UI/UX Implementation** through responsive design and clean, user-friendly layouts.  
-* **Project Leadership** through hackathons and collaborative development.  
+* **Project Leadership** through hackathons and collaborative development. 
 
 <details>
 <summary>📊 GitHub Stats</summary>
