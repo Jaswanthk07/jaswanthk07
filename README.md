@@ -13,7 +13,7 @@ I'm passionate about building scalable web applications and exploring data-drive
 <details>
 <summary>📊 GitHub Stats</summary>
 
-![Jaswanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaswanthk07&show_icons=true&theme=cobalt)
+![Jaswanth's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/jaswanthk07?cardType=level&theme=radical&preferLogin=false)
 
 </details>
 
